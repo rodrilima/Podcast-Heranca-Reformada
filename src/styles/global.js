@@ -1,6 +1,8 @@
-import { createGlobalStyle } from "styled-components";
+import { createGlobalStyle } from 'styled-components';
 
-export const GlobalStyle = createGlobalStyle`
+import 'rc-slider/assets/index.css';
+
+const GlobalStyle = createGlobalStyle`
   * {
     margin: 0;
     padding: 0;
@@ -18,3 +20,5 @@ export const GlobalStyle = createGlobalStyle`
     color: #FFF;
   }
 `;
+
+export default GlobalStyle;
