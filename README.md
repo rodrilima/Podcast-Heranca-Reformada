@@ -14,6 +14,35 @@ This project is part of my personal portfolio, so, I'll be happy if you could pr
 
 Coming Soon
 
+## Getting Started
+
+### Prerequisites
+
+To run this project, you'll only need to have the npm installed.
+
+### Installing
+
+Cloning the Repository
+
+```
+$ git clone https://github.com/rodrilima/podcast-heranca-reformada.git
+
+$ cd podcast-heranca-reformada
+```
+
+**In all the followings instructions, I'll be using the yarn, but you can also use npm.**
+
+```
+$ yarn
+```
+
+### Running
+
+```
+$ yarn start
+```
+
+
 ## Built With
 
 - [React](https://github.com/facebook/react)
