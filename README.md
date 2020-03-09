@@ -6,13 +6,15 @@
 
 ## About this Project
 
-This project was developed for my online store: Livraria Herança Reformada.
+This project was developed for my online store: Livraria Herança Reformada. The application makes it possible to choose and play podcasts.
+
+**Attention: The project is not yet finished**
 
 This project is part of my personal portfolio, so, I'll be happy if you could provide me any feedback about the project, code, structure or anything that you can report that could make me a better developer!
 
 ## Functionalities
 
-Coming Soon
+- Coming Soon...
 
 ## Getting Started
 
@@ -28,18 +30,14 @@ Cloning the Repository
 $ git clone https://github.com/rodrilima/podcast-heranca-reformada.git
 
 $ cd podcast-heranca-reformada
-```
 
-**In all the followings instructions, I'll be using the yarn, but you can also use npm.**
-
-```
-$ yarn
+$ npm install
 ```
 
 ### Running
 
 ```
-$ yarn start
+$ npm start
 ```
 
 
