@@ -14,7 +14,13 @@ This project is part of my personal portfolio, so, I'll be happy if you could pr
 
 ## Functionalities
 
-- Coming Soon...
+- Sign in
+- Sign up
+- Search a podcast
+- Choose and play a podcast
+- Create playlist
+- Mark podcast as favorite
+- Coming more...
 
 ## Getting Started
 
